@@ -1,0 +1,8 @@
+TITLE: Your title goes here
+DATA: FILE = "forMplusTwinDat_TTP_BFYCash.dat";
+VARIABLE: 
+NAMES = family_id age_21 age_22 zygo_twin_21 zygo_twin_22 zygo2_21 zygo2_22 zygo5_21
+     zygo5_22 trip_weights_21 trip_weights_22 sex_21 sex_22 oragene_age_21
+     oragene_age_22 DNAm_BFY_res_21 DNAm_BFY_res_22 DNAm_BFY_res_Z_21
+     DNAm_BFY_res_Z_22 sex_comparison sex_zyg; 
+MISSING=.;
