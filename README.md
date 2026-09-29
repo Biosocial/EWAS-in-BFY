@@ -1,5 +1,5 @@
 # EWAS in BFY
-Epigenome-wide differences in mothers and children following a randomized trial of an unconditional cash transfer<img width="468" height="39" alt="image" src="https://github.com/user-attachments/assets/01df27bb-ddae-47f8-baf0-659c516479d6" />
+Epigenome-wide differences in mothers and children following a randomized trial of an unconditional cash transfer
 
 # BFY
 
@@ -22,7 +22,7 @@ During the age-4 university visit (July 2022 – August 2023), mothers were invi
 
 
 ## Preregistrations
-- https://osf.io/4djtw/files/xftsz<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/48480f2e-6736-44ff-a379-95480ca0d44e" />
+- https://osf.io/4djtw/files/xftsz
 
 
 ## Description
